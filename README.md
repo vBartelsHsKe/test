@@ -10,4 +10,4 @@ Im folgenden ist etwas Code aufgeführt
     i++;
     
     
-    ![/src/file.js](/src/file.js)
+    [siehe Code](/src/file.js)
