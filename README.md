@@ -1,10 +1,19 @@
 # Opinion-Mining and Meta-Opinion-Mining with Amazon-Reviewdata
 
-Made possible with data from Julian McAuley.
+## Overview
+
+1. [Data](./README.md#)
+2. [Hypothesis](./README.md#brillant-but-cruel)
+    1.  [Brilliant-but-cruel](./README.md#hypothesis)
+    2.  [Conformity](./README.md#conformity)
+    3.  [Individual-Bias](./README.md#individual-bias)
+    4.  [Textquality](./README.md#textquality)
 
 
-## Analysis of the following categories
 
+## Data used for mining
+
+Made possible with data from Julian McAuley. Analysis of the following categories:
 
 *   CDs and Vinyl
 *   Clothing, Shoes and Jewelry
@@ -29,21 +38,16 @@ Made possible with data from Julian McAuley.
 *   Musical Instruments
 *   Amazon Instant Video
 
-## Overview
 
-1.  [Brilliant-but-cruel-Hypotehe](./README.md#brillant-but-cruel)
-2.  [Conformity](./README.md#conformity)
-3.  [Individual-Bias](./README.md#individual-bias)
-4.  [Textquality](./README.md#textquality)
+## Hypothesis
 
+### Brillant-but-cruel
 
-## Brillant-but-cruel
+### Conformity
 
-## Conformity
+### Individual-Bias
 
-## Individual-Bias
-
-## Textquality
+### Textquality
 
 
 ![](/Bilder/a_comparehelpfulVotersToOccurence_AmazonInstantVideo.gif "Optionaler Titel")
