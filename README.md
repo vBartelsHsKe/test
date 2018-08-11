@@ -33,8 +33,12 @@ Analysis of the following categories
 Overview
 -
 
--   Brilliant-but-cruel-Hypotehe ()
--   
++   [Brilliant-but-cruel-Hypotehe] (https://github.com/vBartelsHsKe/test/blob/master/README.md#brillannt-but-cruel)
++  
+
+
+Brillant-but-cruel
+-
 
 
 ![](/Bilder/a_comparehelpfulVotersToOccurence_AmazonInstantVideo.gif "Optionaler Titel")
