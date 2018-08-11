@@ -3,7 +3,8 @@ Opinion-Mining and Meta-Opinion-Mining with Amazon-Reviewdata
 
 Used with data from Julian McAuley.
 
-Analyse on following categories
+
+Analysis of the following categories
 -
 
 *   CDs and Vinyl
