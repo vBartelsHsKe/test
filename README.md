@@ -1,5 +1,7 @@
 # Opinion-Mining and Meta-Opinion-Mining with Amazon-Reviewdata
 
+For a detailed documentation visit this [website](https://vbartelshske.github.io/).
+
 ## Overview
 
 1. [Data](./README.md#data-used-for-mining)
