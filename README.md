@@ -15,7 +15,7 @@
 
 Made possible with data from Julian McAuley. Analysis of the following categories:
 
-*   CDs and Vinyl
+*   [CDs and Vinyl](./results/pics/cds-vinyl)
 *   Clothing, Shoes and Jewelry
 *   Home and Kitchen
 *   Kindle Store
