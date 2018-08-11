@@ -1,7 +1,7 @@
 Opinion-Mining and Meta-Opinion-Mining with Amazon-Reviewdata
 =
 
-Used with data from Julian McAuley.
+Made possible with data from Julian McAuley.
 
 
 Analysis of the following categories
@@ -29,6 +29,12 @@ Analysis of the following categories
 *   Digital Music
 *   Musical Instruments
 *   Amazon Instant Video
+
+Overview
+-
+
+-   Brilliant-but-cruel-Hypotehe ()
+-   
 
 
 ![](/Bilder/a_comparehelpfulVotersToOccurence_AmazonInstantVideo.gif "Optionaler Titel")
