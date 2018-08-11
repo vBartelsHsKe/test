@@ -2,7 +2,7 @@
 
 ## Overview
 
-1. [Data](./README.md#)
+1. [Data](./README.md#data-used-for-mining)
 2. [Hypothesis](./README.md#brillant-but-cruel)
     1.  [Brilliant-but-cruel](./README.md#hypothesis)
     2.  [Conformity](./README.md#conformity)
