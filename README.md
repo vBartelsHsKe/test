@@ -31,11 +31,19 @@ Made possible with data from Julian McAuley.
 
 ## Overview
 
-1       [Brilliant-but-cruel-Hypotehe](https://github.com/vBartelsHsKe/test/blob/master/README.md#brillant-but-cruel)
-2       Conformity
+1.  [Brilliant-but-cruel-Hypotehe](./README.md#brillant-but-cruel)
+2.  [Conformity](./README.md#conformity)
+3.  [Individual-Bias](./README.md#individual-bias)
+4.  [Textquality](./README.md#textquality)
 
 
 ## Brillant-but-cruel
+
+## Conformity
+
+## Individual-Bias
+
+## Textquality
 
 
 ![](/Bilder/a_comparehelpfulVotersToOccurence_AmazonInstantVideo.gif "Optionaler Titel")
