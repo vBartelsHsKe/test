@@ -31,8 +31,8 @@ Made possible with data from Julian McAuley.
 
 ## Overview
 
-1   [Brilliant-but-cruel-Hypotehe] (https://github.com/vBartelsHsKe/test/blob/master/README.md#brillant-but-cruel)
-2   Conformity
+1       [Brilliant-but-cruel-Hypotehe](https://github.com/vBartelsHsKe/test/blob/master/README.md#brillant-but-cruel)
+2       Conformity
 
 
 ## Brillant-but-cruel
