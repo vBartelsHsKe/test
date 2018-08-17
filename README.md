@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://hs-kempten.de/">
-    <img src="./hs-kempten-logo.svg" alt="University of Applied Sciences Kempten logo" width=72 height=72>
+    <img src="https://www.hs-kempten.de/fileadmin/fh-kempten/HK/Logo_Studierende/logo-hs-kempten-rgb-screen.jpg" alt="University of Applied Sciences Kempten logo">
   </a>
 
   <h3 align="center">Student Project</h3>
