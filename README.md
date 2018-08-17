@@ -17,11 +17,21 @@
 ##  Table of contents
 
 1. [Data set](#data-set)
-2. [Hypothesis](#brillant-but-cruel)
-    1.  [Brilliant-but-cruel](#hypothesis)
-    2.  [Conformity](#conformity)
-    3.  [Individual-Bias](#individual-bias)
-    4.  [Textquality](#textquality)
+2. [Tools](#tools)
+3. [hypothesis](#hypothesis)
+   1. [Brilliant but cruel](#brilliant-but-cruel)
+   2. [Conformity](#conformity)
+   3. [Individual-Bias](#Individual-Bias)
+   4. [Text quality](#text-quality)
+4. [Power law](#power-law)
+   1. [Textlength](#textlength)
+   2. [Total Votes](#total-votes)
+   3. [Helpful Voters](#helpful-voters)
+5. [Analysis of the most used words](#analysis-of-the-most-used-words)
+   1. [Wordcloud](#wordcloud)    
+   2. [Barplot](#barplot)
+6. [Creators](#creators)
+7. [License](#license)
 
 
 
@@ -52,23 +62,51 @@ Made possible with data from Julian McAuley. Analysis of the following categorie
 *   [Musical Instruments](./results/images/musical_instruments)
 *   [Amazon Instant Video](./results/images/amazon_instant_video)
 
+##Tools
 
-## Hypothesis
 
-### Brillant-but-cruel
+##Hypothesis
+
+### Brilliant but cruel
+![](./results/images/cds-vinyl/brilliantButCruelCDsVinyl.gif)
+![](./results/images/video_games/brilliantButCruelVideoGames.gif)
+
 
 ### Conformity
-
-### Individual-Bias
-
-### Textquality
+![](./results/images/movies/)
+![](./results/images/kindle_store/conformityKindleStore.gif)
 
 
-![](/Bilder/a_comparehelpfulVotersToOccurence_AmazonInstantVideo.gif "Optionaler Titel")
+### Individual-Bias 
+![](./results/images/cds-vinyl/individualBiasCDsVinyl.gif)
+![](./results/images/beauty/individualBiasBeauty.gif)
+
+
+### Text quality
+![](./results/images/health-personal_care/scatterPlotwordcountHealthPersonalCare.gif)
+![](./results/images/home-kitchen/scatterPlotWordCountHomeKitchen.gif)
+
+
+## Power law
+
+### Textlength
+
+### Total Votes
+
+### Helpful Voters
+
+## Analysis of the most used words
+
+### Wordcloud
+
+### Barplot
 
     //ich bin etwas Code
     int i = 0;
     i++;
     
     
- [Link zum Code](./src/file.js)
+ 
+ ##Creators
+ 
+ ##Licence
