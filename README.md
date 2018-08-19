@@ -11,7 +11,7 @@
     <a href="https://vbartelshske.github.io/)"><strong>Presentation of research results</strong></a>
 </p>
 
-<br>
+<hr>
 
 
 ##  Table of contents
