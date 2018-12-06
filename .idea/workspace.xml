@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e139bdc-5854-4d64-8e05-a1e1ba34826d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/amazon_instant_video/a_comparehelpfulVotersToOccurence_AmazonInstantVideo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/amazon_instant_video/a_powerlawHelpfulVoters_AmazonInstantVideo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/amazon_instant_video/b_compareVotersToOccurence_AmazonInstantVideo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/amazon_instant_video/b_powerlawVoters_AmazonInstantVideo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/amazon_instant_video/brilliantButCruelAmazonInstantMovie.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/amazon_instant_video/c_compareWordcountToOccurence_AmazonInstantVideo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/amazon_instant_video/c_powerlawWordcount_AmazonInstantVideo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/amazon_instant_video/conformityAmazonInstantMovie.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/amazon_instant_video/individualBiasAmazonInstantMovie.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/amazon_instant_video/plotWordcloudEvaluationAmazonInstantVideo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/amazon_instant_video/plotWordfrequencyEvaluationAmazonInstantVideo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/amazon_instant_video/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/amazon_instant_video/scatterPlotwordcountsAmazonInstantMovie.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/amazon_instant_video/textQualityBoxplotAmazonInstantMovie.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/apps_for_android/a_comparehelpfulVotersToOccurence_AppsforAndroid.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/apps_for_android/a_powerlawHelpfulVoters_AppsforAndroid.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/apps_for_android/b_compareVotersToOccurence_AppsforAndroid.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/apps_for_android/b_powerlawVoters_AppsforAndroid.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/apps_for_android/brilliantButCruelAppsForAndroid.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/apps_for_android/c_compareWordcountToOccurence_AppsforAndroid.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/apps_for_android/c_powerlawWordcount_AppsforAndroid.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/apps_for_android/conformityAppsForAndroid.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/apps_for_android/individualBiasAppsForAndroid.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/apps_for_android/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/apps_for_android/scatterPlotwordcountAppsForAndroid.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/apps_for_android/textQualityBoxplotAppsForAndroid.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/automotive/a_comparehelpfulVotersToOccurence_Automotive.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/automotive/a_powerlawHelpfulVoters_Automotive.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/automotive/b_compareVotersToOccurence_Automotive.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/automotive/b_powerlawVoters_Automotive.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/automotive/brilliantButCruelAutomotive.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/automotive/c_compareWordcountToOccurence_Automotive.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/automotive/c_powerlawWordcount_Automotive.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/automotive/conformityAutomotive.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/automotive/individualBiasAutomotive.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/automotive/plotWordcloudEvaluationAutomotive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/automotive/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/automotive/scatterPlotwordcountAutomotive.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/automotive/textQualityBoxplotAutomotive.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/baby/a_comparehelpfulVotersToOccurence_Baby.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/baby/a_powerlawHelpfulVoters_Baby.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/baby/b_compareVotersToOccurence_Baby.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/baby/b_powerlawVoters_Baby.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/baby/brilliantButCruelBaby.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/baby/c_compareWordcountToOccurence_Baby.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/baby/c_powerlawWordcount_Baby.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/baby/conformityBaby.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/baby/individualBiasBaby.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/baby/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/baby/scatterPlotwordcountBaby.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/baby/textQualityBoxplotBaby.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/beauty/a_comparehelpfulVotersToOccurence_Beauty.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/beauty/a_powerlawHelpfulVoters_Beauty.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/beauty/b_compareVotersToOccurence_Beauty.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/beauty/b_powerlawVoters_Beauty.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/beauty/brilliantButCruelBeauty.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/beauty/c_compareWordcountToOccurence_Beauty.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/beauty/c_powerlawWordcount_Beauty.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/beauty/conformityBeauty.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/beauty/individualBiasBeauty.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/beauty/plotWordcloudEvaluationBeauty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/beauty/plotWordfrequencyEvaluationBeauty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/beauty/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/beauty/scatterPlotwordcountBeauty.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/beauty/textQualityBoxplotBeauty.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/books/a_comparehelpfulVotersToOccurence_Books.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/books/a_powerlawHelpfulVoters_Books.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/books/b_compareVotersToOccurence_Books.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/books/b_powerlawVoters_Books.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/books/c_compareWordcountToOccurence_Books.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/books/c_powerlawWordcount_Books.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/books/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/books/z_individualBiasBooks.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cds-vinyl/a_comparehelpfulVotersToOccurenceCDs_Vinyl.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cds-vinyl/a_powerlawHelpfulVotersCDs_Vinyl.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cds-vinyl/b_compareVotersToOccurenceCDs_Vinyl.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cds-vinyl/b_powerlawVotersCDs_Vinyl.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cds-vinyl/brilliantButCruelCDsVinyl.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cds-vinyl/c_compareWordcountToOccurenceCDs_Vinyl.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cds-vinyl/c_powerlawWordcountCDs_Vinyl.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cds-vinyl/conformityCDsVinyl.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cds-vinyl/individualBiasCDsVinyl.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cds-vinyl/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cds-vinyl/scatterPlotWordCountCDsVinyl.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cds-vinyl/textQualityBoxPlotCDsVinyl.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cell_phones-accessories/a_comparehelpfulVotersToOccurence_CellphonesandAccessories.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cell_phones-accessories/a_powerlawHelpfulVoters_CellphonesandAccessoires.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cell_phones-accessories/b_compareVotersToOccurence_CellphonesandAccessories.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cell_phones-accessories/b_powerlawVoters_CellphonesandAccessoires.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cell_phones-accessories/brilliantButCruelCellphones.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cell_phones-accessories/c_compareWordcountToOccurence_CellphonesandAccessories.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cell_phones-accessories/c_powerlawWordcount_CellphonesandAccessories.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cell_phones-accessories/conformityCellphones.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cell_phones-accessories/individualBiasCellphones.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cell_phones-accessories/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cell_phones-accessories/scatterPlotwordcountCellphones.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cell_phones-accessories/textQualityCellphones.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clothing-shoes-jewelry/a_comparehelpfulVotersToOccurenceClothingShoes_Jewelry.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clothing-shoes-jewelry/a_powerlawHelpfulVotersClothingShoes_Jewelry.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clothing-shoes-jewelry/b_compareVotersToOccurenceClothingShoes_Jewelry.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clothing-shoes-jewelry/b_powerlawVotersClothingShoes_Jewelry.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clothing-shoes-jewelry/brilliantButCruelClothingShoesJewelry.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clothing-shoes-jewelry/c_compareWordcountToOccurenceClothingShoes_Jewelry.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clothing-shoes-jewelry/c_powerlawWordcountClothingShoes_Jewelry.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clothing-shoes-jewelry/conformityClothingShoesJewelry.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clothing-shoes-jewelry/individualBiasClothingShoesJewelry.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clothing-shoes-jewelry/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clothing-shoes-jewelry/scatterPlotWordCountClothingShoesJewelry.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/clothing-shoes-jewelry/textQualityBoxPlotClothingShoesJewelry.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/digital_music/a_comparehelpfulVotersToOccurence_DigitalMusic.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/digital_music/a_powerlawHelpfulVoters_DigitalMusic.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/digital_music/b_compareVotersToOccurence_DigitalMusic.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/digital_music/b_powerlawVoters_DigitalMusic.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/digital_music/brilliantButCruelDigitalMusic.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/digital_music/c_compareWordcountToOccurence_DigitalMusic.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/digital_music/c_powerlawWordcount_DigitalMusic.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/digital_music/conformityDigitalMusic.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/digital_music/individualBiasDigitalMusic.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/digital_music/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/digital_music/scatterPlotwordcountDigitalMusic.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/digital_music/textQualityBoxplotDigitalMusic.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/grocery-gourmet_food/a_comparehelpfulVotersToOccurence_GroceryandGourmetFood.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/grocery-gourmet_food/a_powerlawHelpfulVoters_GroceryandGourmetFood.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/grocery-gourmet_food/b_compareVotersToOccurence_GroceryandGourmetFood.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/grocery-gourmet_food/b_powerlawVoters_GroceryandGourmetFood.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/grocery-gourmet_food/brilliantButCruelGroceryAndGourmetFood.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/grocery-gourmet_food/c_compareWordcountToOccurence_GroceryandGourmetFood.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/grocery-gourmet_food/c_powerlawWordcount_GroceryandGourmetFood.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/grocery-gourmet_food/conformityGroceryAndGourmetFood.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/grocery-gourmet_food/individualBiasGroceryAndGourmetFood.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/grocery-gourmet_food/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/grocery-gourmet_food/scatterPlotwordcountGroceryAndGourmetFood.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/grocery-gourmet_food/textQualityBoxplotGroceryAndGourmetFood.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/health-personal_care/a_comparehelpfulVotersToOccurence_HealthandPersonalCare.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/health-personal_care/a_powerlawHelpfulVoters_HealthandPersonalCare.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/health-personal_care/b_compareVotersToOccurence_HealthandPersonalCare.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/health-personal_care/b_powerlawVoters_HealthandPersonalCare.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/health-personal_care/brilliantButCruelHealthPersonalCare.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/health-personal_care/c_compareWordcountToOccurence_HealthandPersonalCare.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/health-personal_care/c_powerlawWordcount_HealthandPersonalCare.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/health-personal_care/conformityHealthPersonalCare.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/health-personal_care/individualBiasHealthPersonalCare.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/health-personal_care/plotWordcloudEvaluationHealthandPersonalCare.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/health-personal_care/plotWordfrequencyEvaluationHealthandPersonalCare.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/health-personal_care/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/health-personal_care/scatterPlotwordcountHealthPersonalCare.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/health-personal_care/textQualityBoxplotHealthPersonalCare.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home-kitchen/a_comparehelpfulVotersToOccurenceHome_Kitchen.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home-kitchen/a_powerlawHelpfulVotersHome_Kitchen.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home-kitchen/b_compareVotersToOccurenceHome_Kitchen.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home-kitchen/b_powerlawVotersHome_Kitchen.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home-kitchen/brilliantButCruelHomeKitchen.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home-kitchen/c_compareWordcountToOccurenceHome_Kitchen.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home-kitchen/c_powerlawWordcountHome_Kitchen.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home-kitchen/conformityHomeKitchen.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home-kitchen/individualBiasHomeKitchen.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home-kitchen/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home-kitchen/scatterPlotWordCountHomeKitchen.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home-kitchen/textQualityBoxPlotHomeKitchen.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kindle_store/a_comparehelpfulVotersToOccurence_KindleStore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kindle_store/a_powerlawHelpfulVoters_KindleStore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kindle_store/b_compareVotersToOccurence_KindleStore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kindle_store/b_powerlawVoters_KindleStore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kindle_store/brilliantButCruelKindleStore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kindle_store/c_powerlawWordcount_KindleStore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kindle_store/conformityKindleStore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kindle_store/individualBiasKindleStore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kindle_store/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kindle_store/scatterPlotwordcountKindleStore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kindle_store/textQualityKindleStore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/musical_instruments/a_comparehelpfulVotersToOccurence_MusicalInstruments.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/musical_instruments/a_powerlawHelpfulVoters_MusicalInstruments.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/musical_instruments/b_compareVotersToOccurence_MusicalInstruments.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/musical_instruments/b_powerlawVoters_MusicalInstruments.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/musical_instruments/brilliantButCruelMusicalInstruments.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/musical_instruments/c_compareWordcountToOccurence_MusicalInstruments.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/musical_instruments/c_powerlawWordcount_MusicalInstruments.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/musical_instruments/conformityMusicalInstruments.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/musical_instruments/individualBiasMusicalInstruments.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/musical_instruments/plotWordcloudEvaluationMusicalInstruments.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/musical_instruments/plotWordfrequencyEvaluationMusicalInstruments.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/musical_instruments/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/musical_instruments/scatterPlotwordcountMusicalInstruments.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/musical_instruments/textQualityBoxplotMusicalInstruments.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/office_products/a_comparehelpfulVotersToOccurence_OfficeProducts.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/office_products/a_powerlawHelpfulVoters_OfficeProducts.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/office_products/b_compareVotersToOccurence_OfficeProducts.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/office_products/b_powerlawVoters_OfficeProducts.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/office_products/brilliantButCruelOfficeProducts.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/office_products/c_compareWordcountToOccurence_OfficeProducts.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/office_products/c_powerlawWordcount_OfficeProducts.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/office_products/conformityOfficeProducts.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/office_products/individualBiasOfficeProducts.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/office_products/plotWordcloudEvaluationOfficeProducts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/office_products/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/office_products/scatterPlotwordcountOfficeProducts.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/office_products/textQualityBoxplotOfficeProducts.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/patio-lawn-garden/a_comparehelpfulVotersToOccurence_PatioLawnandGarden.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/patio-lawn-garden/a_powerlawHelpfulVoters_PatioLawnandGarden.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/patio-lawn-garden/b_compareVotersToOccurence_PatioLawnandGarden.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/patio-lawn-garden/b_powerlawVoters_PatioLawnandGarden.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/patio-lawn-garden/brilliantButCruelPatioLawnAndGarden.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/patio-lawn-garden/c_compareWordcountToOccurence_PatioLawnandGarden.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/patio-lawn-garden/c_powerlawWordcount_PatioLawnandGarden.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/patio-lawn-garden/conformityPatioLawnAndGarden.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/patio-lawn-garden/individualBiasPatioLawnAndGarden.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/patio-lawn-garden/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/patio-lawn-garden/scatterPlotwordcountPatioLawnAndGarden.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/patio-lawn-garden/textQualityBoxplotPatioLawnAndGarden.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pet_supplies/a_comparehelpfulVotersToOccurence_PetSupplies.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pet_supplies/a_powerlawHelpfulVoters_PetSupplies.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pet_supplies/b_compareVotersToOccurence_PetSupplies.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pet_supplies/b_powerlawVoters_PetSupplies.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pet_supplies/brilliantButCruelPetSupplies.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pet_supplies/c_compareWordcountToOccurence_PetSupplies.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pet_supplies/c_powerlawWordcount_PetSupplies.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pet_supplies/conformityPetSupplies.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pet_supplies/individualBiasPetSupplies.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pet_supplies/plotWordcloudEvaluationPetSupplies.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pet_supplies/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pet_supplies/scatterPlotwordcountPetSupplies.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pet_supplies/textQualityBoxplotPetSupplies.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sports-outdoors/a_comparehelpfulVotersToOccurence_SportsandOutdoors.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sports-outdoors/a_powerlawHelpfulVoters_SportsandOutdoors.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sports-outdoors/b_compareVotersToOccurence_SportsandOutdoors.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sports-outdoors/b_powerlawVoters_SportsandOutdoors.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sports-outdoors/brilliantButCruelHealthSportsAndOutdoors.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sports-outdoors/c_compareWordcountToOccurence_SportsandOutdoors.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sports-outdoors/c_powerlawWordcount_SportsandOutdoors.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sports-outdoors/conformityHealthSportsAndOutdoors.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sports-outdoors/individualBiasHealthSportsAndOutdoors.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sports-outdoors/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sports-outdoors/scatterPlotwordcountHealthSportsAndOutdoors.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sports-outdoors/textQualityHealthSportsAndOutdoors.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tools-home_improvement/a_comparehelpfulVotersToOccurence_ToolsandHomeImprovement.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tools-home_improvement/a_powerlawHelpfulVoters_ToolsandHomeImprovement.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tools-home_improvement/b_compareVotersToOccurence_ToolsandHomeImprovement.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tools-home_improvement/b_powerlawVoters_ToolsandHomeImprovement.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tools-home_improvement/brilliantButCruelToolsAndHomeImprovement.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tools-home_improvement/c_compareWordcountToOccurence_ToolsandHomeImprovement.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tools-home_improvement/c_powerlawWordcount_ToolsandHomeImprovement.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tools-home_improvement/conformityToolsAndHomeImprovement.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tools-home_improvement/individualBiasToolsAndHomeImprovement.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tools-home_improvement/plotWordcloudEvaluationToolsandHomeImprovement.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tools-home_improvement/plotWordfrequencyEvaluationToolsandHomeImprovement.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tools-home_improvement/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tools-home_improvement/scatterPlotwordcountToolsAndHomeImprovement.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tools-home_improvement/textQualityBoxplotToolsAndHomeImprovement.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/toys-games/a_comparehelpfulVotersToOccurence_ToysandGames.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/toys-games/a_powerlawHelpfulVoters_ToysandGames.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/toys-games/b_compareVotersToOccurence_ToysandGames.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/toys-games/b_powerlawVoters_ToysandGames.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/toys-games/brilliantButCruelToysGames.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/toys-games/c_compareWordcountToOccurence_ToysandGames.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/toys-games/c_powerlawWordcount_ToysandGames.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/toys-games/conformityToysGames.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/toys-games/individualBiasToysGames.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/toys-games/plotWordcloudEvaluationToysandGames.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/toys-games/plotWordfrequencyEvaluationToysandGames.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/toys-games/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/toys-games/scatterPlotwordcountToysGames.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/toys-games/textQualityBoxplotToysGames.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/video_games/a_comparehelpfulVotersToOccurence_VideoGames.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/video_games/a_powerlawHelpfulVoters_VideoGames.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/video_games/b_compareVotersToOccurence_VideoGames.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/video_games/b_powerlawVoters_VideoGames.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/video_games/brilliantButCruelVideoGames.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/video_games/c_compareWordcountToOccurence_VideoGames.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/video_games/c_powerlawWordcount_VideoGames.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/video_games/conformityVideoGames.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/video_games/individualBiasVideoGames.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/video_games/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/video_games/scatterPlotwordcountVideoGames.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/video_games/textQualityBoxplotVideoGames.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hypothesis/brilliant_but_cruel.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hypothesis/conformity.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hypothesis/individual_bias.R" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hypothesis/text_quality" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/power_law/docuOpinionMining.Rmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/amazon_instant_video/a_comparehelpfulVotersToOccurence_AmazonInstantVideo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/amazon_instant_video/a_powerlawHelpfulVoters_AmazonInstantVideo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/amazon_instant_video/b_compareVotersToOccurence_AmazonInstantVideo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/amazon_instant_video/b_powerlawVoters_AmazonInstantVideo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/amazon_instant_video/brilliantButCruelAmazonInstantMovie.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/amazon_instant_video/c_compareWordcountToOccurence_AmazonInstantVideo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/amazon_instant_video/c_powerlawWordcount_AmazonInstantVideo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/amazon_instant_video/conformityAmazonInstantMovie.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/amazon_instant_video/individualBiasAmazonInstantMovie.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/amazon_instant_video/plotWordcloudEvaluationAmazonInstantVideo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/amazon_instant_video/plotWordfrequencyEvaluationAmazonInstantVideo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/amazon_instant_video/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/amazon_instant_video/scatterPlotwordcountsAmazonInstantMovie.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/amazon_instant_video/textQualityBoxplotAmazonInstantMovie.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/apps_for_android/a_comparehelpfulVotersToOccurence_AppsforAndroid.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/apps_for_android/a_powerlawHelpfulVoters_AppsforAndroid.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/apps_for_android/b_compareVotersToOccurence_AppsforAndroid.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/apps_for_android/b_powerlawVoters_AppsforAndroid.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/apps_for_android/brilliantButCruelAppsForAndroid.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/apps_for_android/c_compareWordcountToOccurence_AppsforAndroid.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/apps_for_android/c_powerlawWordcount_AppsforAndroid.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/apps_for_android/conformityAppsForAndroid.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/apps_for_android/individualBiasAppsForAndroid.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/apps_for_android/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/apps_for_android/scatterPlotwordcountAppsForAndroid.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/apps_for_android/textQualityBoxplotAppsForAndroid.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/automotive/a_comparehelpfulVotersToOccurence_Automotive.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/automotive/a_powerlawHelpfulVoters_Automotive.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/automotive/b_compareVotersToOccurence_Automotive.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/automotive/b_powerlawVoters_Automotive.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/automotive/brilliantButCruelAutomotive.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/automotive/c_compareWordcountToOccurence_Automotive.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/automotive/c_powerlawWordcount_Automotive.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/automotive/conformityAutomotive.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/automotive/individualBiasAutomotive.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/automotive/plotWordcloudEvaluationAutomotive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/automotive/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/automotive/scatterPlotwordcountAutomotive.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/automotive/textQualityBoxplotAutomotive.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/baby/a_comparehelpfulVotersToOccurence_Baby.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/baby/a_powerlawHelpfulVoters_Baby.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/baby/b_compareVotersToOccurence_Baby.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/baby/b_powerlawVoters_Baby.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/baby/brilliantButCruelBaby.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/baby/c_compareWordcountToOccurence_Baby.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/baby/c_powerlawWordcount_Baby.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/baby/conformityBaby.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/baby/individualBiasBaby.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/baby/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/baby/scatterPlotwordcountBaby.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/baby/textQualityBoxplotBaby.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/beauty/a_comparehelpfulVotersToOccurence_Beauty.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/beauty/a_powerlawHelpfulVoters_Beauty.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/beauty/b_compareVotersToOccurence_Beauty.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/beauty/b_powerlawVoters_Beauty.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/beauty/brilliantButCruelBeauty.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/beauty/c_compareWordcountToOccurence_Beauty.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/beauty/c_powerlawWordcount_Beauty.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/beauty/conformityBeauty.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/beauty/individualBiasBeauty.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/beauty/plotWordcloudEvaluationBeauty.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/beauty/plotWordfrequencyEvaluationBeauty.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/beauty/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/beauty/scatterPlotwordcountBeauty.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/beauty/textQualityBoxplotBeauty.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/books/a_comparehelpfulVotersToOccurence_Books.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/books/a_powerlawHelpfulVoters_Books.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/books/b_compareVotersToOccurence_Books.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/books/b_powerlawVoters_Books.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/books/c_compareWordcountToOccurence_Books.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/books/c_powerlawWordcount_Books.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/books/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/books/z_individualBiasBooks.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/cds-vinyl/a_comparehelpfulVotersToOccurenceCDs_Vinyl.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/cds-vinyl/a_powerlawHelpfulVotersCDs_Vinyl.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/cds-vinyl/b_compareVotersToOccurenceCDs_Vinyl.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/cds-vinyl/b_powerlawVotersCDs_Vinyl.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/cds-vinyl/brilliantButCruelCDsVinyl.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/cds-vinyl/c_compareWordcountToOccurenceCDs_Vinyl.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/cds-vinyl/c_powerlawWordcountCDs_Vinyl.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/cds-vinyl/conformityCDsVinyl.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/cds-vinyl/individualBiasCDsVinyl.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/cds-vinyl/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/cds-vinyl/scatterPlotWordCountCDsVinyl.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/cds-vinyl/textQualityBoxPlotCDsVinyl.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/cell_phones-accessories/a_comparehelpfulVotersToOccurence_CellphonesandAccessories.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/cell_phones-accessories/a_powerlawHelpfulVoters_CellphonesandAccessoires.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/cell_phones-accessories/b_compareVotersToOccurence_CellphonesandAccessories.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/cell_phones-accessories/b_powerlawVoters_CellphonesandAccessoires.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/cell_phones-accessories/brilliantButCruelCellphones.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/cell_phones-accessories/c_compareWordcountToOccurence_CellphonesandAccessories.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/cell_phones-accessories/c_powerlawWordcount_CellphonesandAccessories.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/cell_phones-accessories/conformityCellphones.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/cell_phones-accessories/individualBiasCellphones.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/cell_phones-accessories/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/cell_phones-accessories/scatterPlotwordcountCellphones.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/cell_phones-accessories/textQualityCellphones.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/clothing-shoes-jewelry/a_comparehelpfulVotersToOccurenceClothingShoes_Jewelry.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/clothing-shoes-jewelry/a_powerlawHelpfulVotersClothingShoes_Jewelry.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/clothing-shoes-jewelry/b_compareVotersToOccurenceClothingShoes_Jewelry.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/clothing-shoes-jewelry/b_powerlawVotersClothingShoes_Jewelry.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/clothing-shoes-jewelry/brilliantButCruelClothingShoesJewelry.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/clothing-shoes-jewelry/c_compareWordcountToOccurenceClothingShoes_Jewelry.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/clothing-shoes-jewelry/c_powerlawWordcountClothingShoes_Jewelry.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/clothing-shoes-jewelry/conformityClothingShoesJewelry.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/clothing-shoes-jewelry/individualBiasClothingShoesJewelry.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/clothing-shoes-jewelry/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/clothing-shoes-jewelry/scatterPlotWordCountClothingShoesJewelry.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/clothing-shoes-jewelry/textQualityBoxPlotClothingShoesJewelry.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/digital_music/a_comparehelpfulVotersToOccurence_DigitalMusic.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/digital_music/a_powerlawHelpfulVoters_DigitalMusic.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/digital_music/b_compareVotersToOccurence_DigitalMusic.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/digital_music/b_powerlawVoters_DigitalMusic.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/digital_music/brilliantButCruelDigitalMusic.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/digital_music/c_compareWordcountToOccurence_DigitalMusic.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/digital_music/c_powerlawWordcount_DigitalMusic.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/digital_music/conformityDigitalMusic.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/digital_music/individualBiasDigitalMusic.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/digital_music/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/digital_music/scatterPlotwordcountDigitalMusic.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/digital_music/textQualityBoxplotDigitalMusic.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/grocery-gourmet_food/a_comparehelpfulVotersToOccurence_GroceryandGourmetFood.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/grocery-gourmet_food/a_powerlawHelpfulVoters_GroceryandGourmetFood.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/grocery-gourmet_food/b_compareVotersToOccurence_GroceryandGourmetFood.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/grocery-gourmet_food/b_powerlawVoters_GroceryandGourmetFood.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/grocery-gourmet_food/brilliantButCruelGroceryAndGourmetFood.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/grocery-gourmet_food/c_compareWordcountToOccurence_GroceryandGourmetFood.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/grocery-gourmet_food/c_powerlawWordcount_GroceryandGourmetFood.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/grocery-gourmet_food/conformityGroceryAndGourmetFood.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/grocery-gourmet_food/individualBiasGroceryAndGourmetFood.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/grocery-gourmet_food/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/grocery-gourmet_food/scatterPlotwordcountGroceryAndGourmetFood.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/grocery-gourmet_food/textQualityBoxplotGroceryAndGourmetFood.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/health-personal_care/a_comparehelpfulVotersToOccurence_HealthandPersonalCare.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/health-personal_care/a_powerlawHelpfulVoters_HealthandPersonalCare.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/health-personal_care/b_compareVotersToOccurence_HealthandPersonalCare.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/health-personal_care/b_powerlawVoters_HealthandPersonalCare.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/health-personal_care/brilliantButCruelHealthPersonalCare.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/health-personal_care/c_compareWordcountToOccurence_HealthandPersonalCare.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/health-personal_care/c_powerlawWordcount_HealthandPersonalCare.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/health-personal_care/conformityHealthPersonalCare.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/health-personal_care/individualBiasHealthPersonalCare.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/health-personal_care/plotWordcloudEvaluationHealthandPersonalCare.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/health-personal_care/plotWordfrequencyEvaluationHealthandPersonalCare.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/health-personal_care/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/health-personal_care/scatterPlotwordcountHealthPersonalCare.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/health-personal_care/textQualityBoxplotHealthPersonalCare.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/home-kitchen/a_comparehelpfulVotersToOccurenceHome_Kitchen.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/home-kitchen/a_powerlawHelpfulVotersHome_Kitchen.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/home-kitchen/b_compareVotersToOccurenceHome_Kitchen.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/home-kitchen/b_powerlawVotersHome_Kitchen.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/home-kitchen/brilliantButCruelHomeKitchen.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/home-kitchen/c_compareWordcountToOccurenceHome_Kitchen.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/home-kitchen/c_powerlawWordcountHome_Kitchen.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/home-kitchen/conformityHomeKitchen.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/home-kitchen/individualBiasHomeKitchen.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/home-kitchen/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/home-kitchen/scatterPlotWordCountHomeKitchen.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/home-kitchen/textQualityBoxPlotHomeKitchen.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/kindle_store/a_comparehelpfulVotersToOccurence_KindleStore.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/kindle_store/a_powerlawHelpfulVoters_KindleStore.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/kindle_store/b_compareVotersToOccurence_KindleStore.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/kindle_store/b_powerlawVoters_KindleStore.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/kindle_store/brilliantButCruelKindleStore.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/kindle_store/c_powerlawWordcount_KindleStore.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/kindle_store/conformityKindleStore.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/kindle_store/individualBiasKindleStore.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/kindle_store/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/kindle_store/scatterPlotwordcountKindleStore.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/kindle_store/textQualityKindleStore.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/musical_instruments/a_comparehelpfulVotersToOccurence_MusicalInstruments.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/musical_instruments/a_powerlawHelpfulVoters_MusicalInstruments.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/musical_instruments/b_compareVotersToOccurence_MusicalInstruments.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/musical_instruments/b_powerlawVoters_MusicalInstruments.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/musical_instruments/brilliantButCruelMusicalInstruments.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/musical_instruments/c_compareWordcountToOccurence_MusicalInstruments.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/musical_instruments/c_powerlawWordcount_MusicalInstruments.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/musical_instruments/conformityMusicalInstruments.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/musical_instruments/individualBiasMusicalInstruments.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/musical_instruments/plotWordcloudEvaluationMusicalInstruments.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/musical_instruments/plotWordfrequencyEvaluationMusicalInstruments.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/musical_instruments/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/musical_instruments/scatterPlotwordcountMusicalInstruments.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/musical_instruments/textQualityBoxplotMusicalInstruments.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/office_products/a_comparehelpfulVotersToOccurence_OfficeProducts.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/office_products/a_powerlawHelpfulVoters_OfficeProducts.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/office_products/b_compareVotersToOccurence_OfficeProducts.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/office_products/b_powerlawVoters_OfficeProducts.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/office_products/brilliantButCruelOfficeProducts.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/office_products/c_compareWordcountToOccurence_OfficeProducts.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/office_products/c_powerlawWordcount_OfficeProducts.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/office_products/conformityOfficeProducts.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/office_products/individualBiasOfficeProducts.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/office_products/plotWordcloudEvaluationOfficeProducts.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/office_products/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/office_products/scatterPlotwordcountOfficeProducts.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/office_products/textQualityBoxplotOfficeProducts.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/patio-lawn-garden/a_comparehelpfulVotersToOccurence_PatioLawnandGarden.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/patio-lawn-garden/a_powerlawHelpfulVoters_PatioLawnandGarden.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/patio-lawn-garden/b_compareVotersToOccurence_PatioLawnandGarden.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/patio-lawn-garden/b_powerlawVoters_PatioLawnandGarden.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/patio-lawn-garden/brilliantButCruelPatioLawnAndGarden.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/patio-lawn-garden/c_compareWordcountToOccurence_PatioLawnandGarden.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/patio-lawn-garden/c_powerlawWordcount_PatioLawnandGarden.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/patio-lawn-garden/conformityPatioLawnAndGarden.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/patio-lawn-garden/individualBiasPatioLawnAndGarden.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/patio-lawn-garden/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/patio-lawn-garden/scatterPlotwordcountPatioLawnAndGarden.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/patio-lawn-garden/textQualityBoxplotPatioLawnAndGarden.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/pet_supplies/a_comparehelpfulVotersToOccurence_PetSupplies.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/pet_supplies/a_powerlawHelpfulVoters_PetSupplies.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/pet_supplies/b_compareVotersToOccurence_PetSupplies.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/pet_supplies/b_powerlawVoters_PetSupplies.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/pet_supplies/brilliantButCruelPetSupplies.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/pet_supplies/c_compareWordcountToOccurence_PetSupplies.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/pet_supplies/c_powerlawWordcount_PetSupplies.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/pet_supplies/conformityPetSupplies.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/pet_supplies/individualBiasPetSupplies.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/pet_supplies/plotWordcloudEvaluationPetSupplies.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/pet_supplies/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/pet_supplies/scatterPlotwordcountPetSupplies.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/pet_supplies/textQualityBoxplotPetSupplies.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/sports-outdoors/a_comparehelpfulVotersToOccurence_SportsandOutdoors.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/sports-outdoors/a_powerlawHelpfulVoters_SportsandOutdoors.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/sports-outdoors/b_compareVotersToOccurence_SportsandOutdoors.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/sports-outdoors/b_powerlawVoters_SportsandOutdoors.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/sports-outdoors/brilliantButCruelHealthSportsAndOutdoors.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/sports-outdoors/c_compareWordcountToOccurence_SportsandOutdoors.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/sports-outdoors/c_powerlawWordcount_SportsandOutdoors.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/sports-outdoors/conformityHealthSportsAndOutdoors.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/sports-outdoors/individualBiasHealthSportsAndOutdoors.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/sports-outdoors/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/sports-outdoors/scatterPlotwordcountHealthSportsAndOutdoors.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/sports-outdoors/textQualityHealthSportsAndOutdoors.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/tools-home_improvement/a_comparehelpfulVotersToOccurence_ToolsandHomeImprovement.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/tools-home_improvement/a_powerlawHelpfulVoters_ToolsandHomeImprovement.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/tools-home_improvement/b_compareVotersToOccurence_ToolsandHomeImprovement.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/tools-home_improvement/b_powerlawVoters_ToolsandHomeImprovement.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/tools-home_improvement/brilliantButCruelToolsAndHomeImprovement.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/tools-home_improvement/c_compareWordcountToOccurence_ToolsandHomeImprovement.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/tools-home_improvement/c_powerlawWordcount_ToolsandHomeImprovement.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/tools-home_improvement/conformityToolsAndHomeImprovement.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/tools-home_improvement/individualBiasToolsAndHomeImprovement.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/tools-home_improvement/plotWordcloudEvaluationToolsandHomeImprovement.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/tools-home_improvement/plotWordfrequencyEvaluationToolsandHomeImprovement.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/tools-home_improvement/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/tools-home_improvement/scatterPlotwordcountToolsAndHomeImprovement.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/tools-home_improvement/textQualityBoxplotToolsAndHomeImprovement.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/toys-games/a_comparehelpfulVotersToOccurence_ToysandGames.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/toys-games/a_powerlawHelpfulVoters_ToysandGames.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/toys-games/b_compareVotersToOccurence_ToysandGames.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/toys-games/b_powerlawVoters_ToysandGames.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/toys-games/brilliantButCruelToysGames.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/toys-games/c_compareWordcountToOccurence_ToysandGames.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/toys-games/c_powerlawWordcount_ToysandGames.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/toys-games/conformityToysGames.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/toys-games/individualBiasToysGames.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/toys-games/plotWordcloudEvaluationToysandGames.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/toys-games/plotWordfrequencyEvaluationToysandGames.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/toys-games/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/toys-games/scatterPlotwordcountToysGames.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/toys-games/textQualityBoxplotToysGames.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/video_games/a_comparehelpfulVotersToOccurence_VideoGames.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/video_games/a_powerlawHelpfulVoters_VideoGames.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/video_games/b_compareVotersToOccurence_VideoGames.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/video_games/b_powerlawVoters_VideoGames.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/video_games/brilliantButCruelVideoGames.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/video_games/c_compareWordcountToOccurence_VideoGames.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/video_games/c_powerlawWordcount_VideoGames.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/video_games/conformityVideoGames.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/video_games/individualBiasVideoGames.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/video_games/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/video_games/scatterPlotwordcountVideoGames.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/images/video_games/textQualityBoxplotVideoGames.gif" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1679290765">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="R" value="2" />
+          <entry key="Rmd" value="1" />
+          <entry key="md" value="12" />
+          <entry key="r" value="1" />
+          <entry key="text_quality" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="12" />
+          <entry key="PLAIN_TEXT" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="md" value="196" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="196" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="278">
+                <caret line="74" column="20" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/video_games/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/power_law/docuOpinionMining.Rmd">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hypothesis/text_quality">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/amazon_instant_video/readme.md" />
+        <option value="$PROJECT_DIR$/src/automotive/readme.md" />
+        <option value="$PROJECT_DIR$/images/automotive/readme.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DV_Projekt_github_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DV_Projekt_github_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DV_Projekt_github_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DV_Projekt_github_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DV_Projekt_github_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DV_Projekt_github_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hypothesis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DV_Projekt_github_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DV_Projekt_github_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="power_law" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/power_law" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/apps_for_android" />
+      <recent name="$PROJECT_DIR$/src/amazon_instant_video" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e139bdc-5854-4d64-8e05-a1e1ba34826d" name="Default Changelist" comment="" />
+      <created>1541143890818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541143890818</updated>
+      <workItem from="1541143893612" duration="1904000" />
+      <workItem from="1541520014407" duration="290000" />
+      <workItem from="1543484415944" duration="573000" />
+      <workItem from="1543532945594" duration="5000" />
+      <workItem from="1543831365169" duration="799000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3571000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2641357" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/baby/readme.md" />
+    <entry file="file://$PROJECT_DIR$/src/automotive/readme.md" />
+    <entry file="file://$PROJECT_DIR$/images/automotive/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/amazon_instant_video/readme.md" />
+    <entry file="file://$PROJECT_DIR$/src/apps_for_android/readme.md" />
+    <entry file="file://$PROJECT_DIR$/src/hypothesis/brilliant_but_cruel.R">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hypothesis/conformity.R">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hypothesis/individual_bias.R">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="278">
+            <caret line="74" column="20" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/video_games/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/power_law/docuOpinionMining.Rmd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hypothesis/text_quality">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

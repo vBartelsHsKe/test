@@ -1,0 +1,153 @@
+---
+output:
+  knitrBootstrap::bootstrap_document:
+    theme.chooser: TRUE
+    highlight.chooser: TRUE
+    theme: flatly
+---
+<!--custom css, overwrite bootstrap css-styles-->
+<style>
+  #credit {
+    display: none
+  }
+  .thumbnail {
+    border-color: #aaa !important;
+  }
+  .thumbnail:hover {
+    border-color: #18bc9c !important;
+  }
+  hr { border: 0; border-top: 1px dotted #18bc9c !important  }
+  h1 { text-transform: uppercase !important; font-size: 35px !important}
+  h2 { color: #777 !important; font-size: 30px !important}
+  
+  .searchtop {
+  margin-top: 0px;
+  margin-right: 1em
+  }
+  
+  .custominput {
+  width: 100%;
+  background: #fff;
+  border: 2px solid #18bc9c;
+  border-radius: 0;
+  box-sizing: border-box;
+  color: #2c3e50;
+  font-family: inherit;
+  font-size: 1em;
+  font-weight: 200;
+  padding: 5px 10px;
+  caret-color: #18bc9c;
+  }	
+  
+</style>
+<!------------------------------------------->
+
+#DV-Projekt 2018
+##Opinion-Mining und Meta-Opinion-Mining für Amazon-Reviewdaten
+<p style="line-height: 0.5em">&nbsp;</p>
+Die von uns ausgewerteten Datensätze wurden von Julian McAuley bereitgestellt, dieser hat Amazon-Reviewdaten gecrawlt und für Analysen aufbereitet.
+<p>&nbsp;</p>
+Hierbei wurden die Datensätze auf diejenigen Rezensionen reduziert, welche mindestens fünfmal votiert wurden.
+
+<div class="container-fluid">
+###Die Reviews folgender Kategorien wurden ausgewertet:
+<p style="line-height: 0.5em">&nbsp;</p>
+<div class="row">
+<div class="col-sm-6">
+* CDs and Vinyl
+* Clothing, Shoes and Jewelry
+* Home and Kitchen
+* Kindle Store
+* Sports and Outdoors
+* Cell Phones and Accessories
+* Health and Personal Care
+* Toys and Games
+* Video Games
+* Tools and Home Improvement
+* Beauty
+</div>
+<div class="col-sm-6" style="margin-bottom: 1em">
+* Apps for Android
+* Books
+* Office Products
+* Pet Supplies
+* Automotive
+* Grocery and Gourmet Food
+* Patio, Lawn and Garden
+* Baby
+* Digital Music
+* Musical Instruments
+* Amazon Instant Video
+</div>
+</div>
+</div>
+
+<p style="line-height: 0.5em">&nbsp;</p>
+<hr>
+<p style="line-height: 1px">&nbsp;</p>
+
+<div style="background-color: #ecf0f1; padding: 1em 1em 1em 1em; width: 100%">
+<h3 style="margin-top: 0">Plots nach Kategorie filtern</h3>
+<input id="resourceSearch" placeholder="Kategorie eingeben ..." class="searchtop custominput animated-search-filter">
+</div>
+
+<p style="line-height: 0.5em">&nbsp;</p>
+<hr>
+<p style="line-height: 1px">&nbsp;</p>
+
+```{r child="subpages/020evaluationHypothesis.Rmd"}
+```
+
+<p style="line-height: 0.5em">&nbsp;</p>
+<hr>
+<p style="line-height: 1px">&nbsp;</p>
+
+```{r child="subpages/040powerlaws.Rmd"}
+```
+
+<p style="line-height: 0.5em">&nbsp;</p>
+<hr>
+<p style="line-height: 1px">&nbsp;</p>
+
+```{r child="subpages/050wordanalysis.Rmd"}
+```
+
+<p style="line-height: 0.5em">&nbsp;</p>
+<hr>
+<p style="line-height: 1px">&nbsp;</p>
+
+```{r child="subpages/030codeDocumentation.Rmd"}
+```
+
+<!--custom js, default-setting is a details-button
+under each plot, if there is no text available for
+a plot the detail-button is set to display:none -->
+<script>
+$(document).ready(function() {
+$(".detailcontent").each(function() {
+var content = $(this).text();
+var matched = content.match(/[a-z]/);
+if (matched == null ) {
+$(this).siblings('.hidebutton').css("display", "none");
+}
+});
+
+<!--Kategoryfilter -->
+$('#resourceSearch').keyup(function () {
+setTimeout(function () {
+$(".col-lg-6, .col-md-6").each(function (index) {
+var nameTag = $(this).find('img').attr('src').toLowerCase();
+var searchStr = $('#resourceSearch').val().toLowerCase();
+
+if (nameTag.indexOf(searchStr) == -1) {
+$(this).hide();
+} else {
+$(this).fadeIn(500);
+}
+});
+}, 10);
+
+});
+});
+</script>
+<!------------------------------------------->

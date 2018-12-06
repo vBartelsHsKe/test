@@ -3,25 +3,22 @@
     <img src="https://www.hs-kempten.de/fileadmin/fh-kempten/HK/Logo_Studierende/logo-hs-kempten-rgb-screen.jpg" alt="University of Applied Sciences Kempten logo" width=488.5 height=264>
   </a>
 
-  <h3 align="center">Student Project</h3>
+  <h3 align="center">Opinion-Mining and Meta-Opinion-Mining with Amazon-Reviewdata</h3>
 
   <p align="center">
-    Opinion-Mining and Meta-Opinion-Mining with Amazon-Reviewdata
-    <br>
     <a href="https://vbartelshske.github.io/)"><strong>Presentation of research results</strong></a>
 </p>
-
-<hr>
+<br>
 
 
 ##  Table of contents
 
 1. [Data set](#data-set)
-2. [Tools](#tools)
-3. [hypothesis](#hypothesis)
+2. [Tools & setup](#tools--setup)
+3. [Hypothesis](#hypothesis)
    1. [Brilliant but cruel](#brilliant-but-cruel)
    2. [Conformity](#conformity)
-   3. [Individual-Bias](#Individual-Bias)
+   3. [Individual-Bias](#individual-bias)
    4. [Text quality](#text-quality)
 4. [Power law](#power-law)
    1. [Textlength](#textlength)
@@ -31,7 +28,7 @@
    1. [Wordcloud](#wordcloud)    
    2. [Barplot](#barplot)
 6. [Creators](#creators)
-7. [License](#license)
+7. [License](#licence)
 
 
 
@@ -39,52 +36,54 @@
 
 Made possible with data from Julian McAuley. Analysis of the following categories:
 
-*   [CDs and Vinyl](./results/images/cds-vinyl)
-*   [Clothing, Shoes and Jewelry](./results/images/clothing-shoes-jewelry)
-*   [Home and Kitchen](./results/images/home-kitchen)
-*   [Kindle Store](./results/images/)
-*   [Sports and Outdoors](./results/images/kindle_store)
-*   [Cell Phones and Accessories](./results/images/cell_phones-accessories)
-*   [Health and Personal Care](./results/images/health-personal_care)
-*   [Toys and Games](./results/images/toys-games)
-*   [Video Games](./results/images/video_games)
-*   [Tools and Home Improvement](./results/images/tools-home_improvement)
-*   [Beauty](./results/images/beauty)
-*   [Apps for Android](./results/images/apps_for_android)
-*   [Books](./results/images/books)
-*   [Office Products](./results/images/office_products)
-*   [Pet Supplies](./results/images/pet_supplies)
-*   [Automotive](./results/images/automotive)
-*   [Grocery and Gourmet Food](./results/images/grocery-gourmet_food)
-*   [Patio, Lawn and Garden](./results/images/patio-lawn-garden)
-*   [Baby](./results/images/baby)
-*   [Digital Music](./results/images/digital_music)
-*   [Musical Instruments](./results/images/musical_instruments)
-*   [Amazon Instant Video](./results/images/amazon_instant_video)
+*   [CDs and Vinyl](./images/cds-vinyl)
+*   [Clothing, Shoes and Jewelry](./images/clothing-shoes-jewelry)
+*   [Home and Kitchen](./images/home-kitchen)
+*   [Kindle Store](./images/kindle_store)
+*   [Sports and Outdoors](./images/sports-outdoors)
+*   [Cell Phones and Accessories](./images/cell_phones-accessories)
+*   [Health and Personal Care](./images/health-personal_care)
+*   [Toys and Games](./images/toys-games)
+*   [Video Games](./images/video_games)
+*   [Tools and Home Improvement](./images/tools-home_improvement)
+*   [Beauty](./images/beauty)
+*   [Apps for Android](./images/apps_for_android)
+*   [Books](./images/books)
+*   [Office Products](./images/office_products)
+*   [Pet Supplies](./images/pet_supplies)
+*   [Automotive](./images/automotive)
+*   [Grocery and Gourmet Food](./images/grocery-gourmet_food)
+*   [Patio, Lawn and Garden](./images/patio-lawn-garden)
+*   [Baby](./images/baby)
+*   [Digital Music](./images/digital_music)
+*   [Musical Instruments](./images/musical_instruments)
+*   [Amazon Instant Video](./images/amazon_instant_video)
 
-##Tools
+## Tools & setup
+
+To get started you need to install the latest R language packge and the R-compatible IDE of your choice. We suggest you use RStudio. 
 
 
-##Hypothesis
+## Hypothesis
 
 ### Brilliant but cruel
-![](./results/images/cds-vinyl/brilliantButCruelCDsVinyl.gif)
-![](./results/images/video_games/brilliantButCruelVideoGames.gif)
+![](./images/cds-vinyl/brilliantButCruelCDsVinyl.gif)
+![](./images/video_games/brilliantButCruelVideoGames.gif)
 
 
 ### Conformity
-![](./results/images/movies/)
-![](./results/images/kindle_store/conformityKindleStore.gif)
+![](./images/movies/)
+![](./images/kindle_store/conformityKindleStore.gif)
 
 
 ### Individual-Bias 
-![](./results/images/cds-vinyl/individualBiasCDsVinyl.gif)
-![](./results/images/beauty/individualBiasBeauty.gif)
+![](./images/cds-vinyl/individualBiasCDsVinyl.gif)
+![](./images/beauty/individualBiasBeauty.gif)
 
 
 ### Text quality
-![](./results/images/health-personal_care/scatterPlotwordcountHealthPersonalCare.gif)
-![](./results/images/home-kitchen/scatterPlotWordCountHomeKitchen.gif)
+![](./images/health-personal_care/scatterPlotwordcountHealthPersonalCare.gif)
+![](./images/home-kitchen/scatterPlotWordCountHomeKitchen.gif)
 
 
 ## Power law
@@ -107,6 +106,6 @@ Made possible with data from Julian McAuley. Analysis of the following categorie
     
     
  
- ##Creators
+ ## Creators
  
- ##Licence
+ ## Licence

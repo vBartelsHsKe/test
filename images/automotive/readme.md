@@ -1,6 +1,6 @@
 # Automotive
 
-All results for category Apps for automotive.
+All results for category automotive.
 
 ##  Table of contents
 
