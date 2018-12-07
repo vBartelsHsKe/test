@@ -39,7 +39,7 @@ All results for category kindle store.
 ## Power law
 
 ### Textlength
-![](./)
+![](./c_compareWordcountToOccurence_KindleStore.gif)
 ![](./c_powerlawWordcount_KindleStore.gif)
 
 ### Total Votes

@@ -1,8 +1,8 @@
-# Books
-
-All results for category books.
+# Electronics
+All results for category electronics.
 
 We are missing some plots here because this dataset was especially large which caused us some problems.
+
 
 ##  Table of contents
 
@@ -28,7 +28,7 @@ We are missing some plots here because this dataset was especially large which c
 ![](./)
 
 ### Individual-Bias
-![](./z_individualBiasBooks.gif)
+![](./)
 
 ### Text quality
 
@@ -42,16 +42,16 @@ We are missing some plots here because this dataset was especially large which c
 ## Power law
 
 ### Textlength
-![](./c_compareWordcountToOccurence_Books.gif)
-![](./c_powerlawWordcount_Books.gif)
+![](./c_compareWordcountToOccurence_Electronics.gif)
+![](./c_powerlawWordcount_Electronics.gif)
 
 ### Total Votes
-![](./b_compareVotersToOccurence_Books.gif)
-![](./b_powerlawVoters_Books.gif)
+![](./b_compareVotersToOccurence_Electronics.gif)
+![](./b_powerlawVoters_Electronics.gif)
 
 ### Helpful Voters
-![](./a_comparehelpfulVotersToOccurence_Books.gif)
-![](./a_powerlawHelpfulVoters_Books.gif)
+![](./a_comparehelpfulVotersToOccurence_Electronics.gif)
+![](./a_powerlawHelpfulVoters_Electronics.gif)
 
 ## Analysis of the most used words
 

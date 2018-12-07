@@ -1,8 +1,5 @@
-# Books
-
-All results for category books.
-
-We are missing some plots here because this dataset was especially large which caused us some problems.
+# Movies and TV
+All results for category movies and TV.
 
 ##  Table of contents
 
@@ -22,36 +19,37 @@ We are missing some plots here because this dataset was especially large which c
 ## Hypothesis
 
 ### Brilliant but cruel
-![](./)
+![](./brilliantButCruelMoviesTV.jpeg)
 
 ### Conformity
-![](./)
+![](./conformityMoviesTV.jpeg)
 
 ### Individual-Bias
-![](./z_individualBiasBooks.gif)
+![](./individualBiasMoviesTV.jpeg)
 
 ### Text quality
 
 #### Scatterplot
-![](./)
+![](./scatterPlotWordCountMoviesTV.jpeg)
 
 #### Boxplot
-![](./)
+![](./textQualityBoxPlotMoviesTV.jpeg)
 
 
 ## Power law
 
 ### Textlength
-![](./c_compareWordcountToOccurence_Books.gif)
-![](./c_powerlawWordcount_Books.gif)
+
+![](./c_compareWordcountToOccurenceMovies_TV.gif)
+![](./c_powerlawWordcountMovies_TV.gif)
 
 ### Total Votes
-![](./b_compareVotersToOccurence_Books.gif)
-![](./b_powerlawVoters_Books.gif)
+![](./b_compareVotersToOccurenceMovies_TV.gif)
+![](./b_powerlawVotersMovies_TV.gif)
 
 ### Helpful Voters
-![](./a_comparehelpfulVotersToOccurence_Books.gif)
-![](./a_powerlawHelpfulVoters_Books.gif)
+![](./a_comparehelpfulVotersToOccurenceMovies_TV.gif)
+![](./a_powerlawHelpfulVotersMovies_TV.gif)
 
 ## Analysis of the most used words
 
