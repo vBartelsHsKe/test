@@ -5,14 +5,13 @@
 
   <h3 align="center">Opinion-Mining and Meta-Opinion-Mining with Amazon-Reviewdata</h3>
 
-  <p align="center">
-    <a href="https://vbartelshske.github.io/)"><strong>Presentation of research results</strong></a>
-</p>
+  <p align="center"><strong>Presentation of research results</strong></p>
 <br>
 
 
 ##  Table of contents
 
+0. [Intro](#intro)
 1. [Data set](#data-set)
 2. [Tools & setup](#tools--setup)
 3. [Hypothesis](#hypothesis)
@@ -27,9 +26,11 @@
 5. [Analysis of the most used words](#analysis-of-the-most-used-words)
    1. [Wordcloud](#wordcloud)    
    2. [Barplot](#barplot)
-6. [Creators](#creators)
+6. [Creators & contact](#creators--contact)
 7. [License](#licence)
 
+
+## Intro
 
 
 ## Data set
@@ -73,6 +74,8 @@ To get started you need to install the latest R language packge and the R-compat
 ![](./images/cds-vinyl/brilliantButCruelCDsVinyl.gif)
 
 ![](./images/video_games/brilliantButCruelVideoGames.gif)
+
+![jump to the code](./src/)
 
 
 ### Conformity
@@ -147,11 +150,15 @@ To get started you need to install the latest R language packge and the R-compat
 ![](./images/beauty/plotWordfrequencyEvaluationBeauty.png)
 
    
- ## Creators
+ ## Creators & contact
  
  For questions please contact:<br/>
  <a href="https://www.hs-kempten.de/index.php?id=4238&typo3state=persons&lsfid=1000329&L=1">
  Prof. Staudacher</a>
  
  ## Licence
+ 
+ 
+[start of page](#table-of-contents)
+
  
