@@ -33,10 +33,6 @@ All results for category pet supplies.
 #### Scatterplot
 ![](./scatterPlotwordcountPetSupplies.gif)
 
-#### Boxplot
-![](./textQualityBoxplotPetSupplies.gif)
-
-
 ## Power law
 
 ### Textlength

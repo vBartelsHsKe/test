@@ -1,4 +1,4 @@
-# Code documentation -hypothesis
+# Code documentation - hypothesises
 
 
 ##  Table of contents
@@ -12,9 +12,7 @@
 
 ## Brilliant but cruel
 
-   
-     
-  #### Einbinden der Libraries ####
+  #### Libraries ####
   
   ```Rscript
   library(jsonlite)
@@ -27,7 +25,7 @@
   ```
   
   
-  #### erzeugen des Ausgabeplots  ####
+  #### creation of resulting plot  ####
   ```Rscript
   
   createPlot <- function(filePath, titleName){
@@ -63,7 +61,7 @@
     plotable_Frame <- helpful_Vote_Frame %>% mutate(quot= helpfulvoters/ voters)
   
     json_export <- toJSON(plotable_Frame)
-    write_lines(json_export, "C:/Users/Jonas/Desktop/FHkempten/6. Semester/Opinion Mining/Data/book_brilliant.json", append = TRUE)
+    write_lines(json_export, "./book_brilliant.json", append = TRUE)
   
     setDT(plotable_Frame)[, theMedian := median(quot), by = rounded]
   
@@ -72,10 +70,7 @@
   }
   
   
-  # createPlot("C:/Users/Jonas/Desktop/FHkempten/6. Semester/Opinion Mining/Data/Automotive_5.json", "Evaluation 'Automotive'")
-  # createPlot("C:/Users/Jonas/Desktop/FHkempten/6. Semester/Opinion Mining/Data/Office_Products_5.json", "Evaluation 'Office Products'")
-  # createPlot("C:/Users/Jonas/Desktop/FHkempten/6. Semester/Opinion Mining/Data/Pet_Supplies_5.json", "Evaluation 'Pet Supplies'")
-  createPlot("C:/Users/Jonas/Desktop/FHkempten/6. Semester/Opinion Mining/Data/book_brilliant.json", "Evaluation 'Book Reviews'")
+  createPlot("./book_brilliant.json", "Evaluation 'Book Reviews'")
   
   ```
   
@@ -88,7 +83,7 @@
 ## Conformity
 
 
-#### Einbinden der Libraries ####
+#### Libraries ####
 
 ```Rscript
 library(jsonlite)
@@ -101,7 +96,7 @@ library(readr)
 ```
 
 
-#### erzeugen des Ausgabeplots  ####
+#### creation of resulting plot  ####
 ```Rscript
 
 createPlot <- function(filePath, titleName){
@@ -138,7 +133,7 @@ createPlot <- function(filePath, titleName){
   plotable_Frame <- helpful_Vote_Frame %>% mutate(quot = helpfulvoters / voters)
   
   son_export <- toJSON(plotable_Frame)
-  write_lines(json_export, "C:/Users/Jonas/Desktop/FHkempten/6. Semester/Opinion Mining/Data/book_brilliant.json", append = TRUE)
+  write_lines(json_export, "./book_brilliant.json", append = TRUE)
   
   setDT(plotable_Frame)[, theMedian := median(quot), by = rounded]
   
@@ -146,10 +141,7 @@ createPlot <- function(filePath, titleName){
   pplot + geom_boxplot(aes(y = plotable_Frame$quot, group = plotable_Frame$rounded), outlier.shape = NA, color = 'midnightblue', fill = 'lightblue', coef = 0) + geom_line(aes(x = plotable_Frame$rounded, y = plotable_Frame$theMedian) , color = 'red')
 }
 
-#createPlot("C:/Users/Jonas/Desktop/FHkempten/6. Semester/Opinion Mining/Data/Automotive_5.json", "Evaluation 'Automotive'")
-#createPlot("C:/Users/Jonas/Desktop/FHkempten/6. Semester/Opinion Mining/Data/Office_Products_5.json", "Evaluation 'Office Products'")
-#createPlot("C:/Users/Jonas/Desktop/FHkempten/6. Semester/Opinion Mining/Data/Pet_Supplies_5.json", "Evaluation 'Pet Supplies'")
-createPlot("C:/Users/Jonas/Desktop/FHkempten/6. Semester/Opinion Mining/Data/book_brilliant.json", "Evaluation 'Book Reviews'")
+createPlot("./book_brilliant.json", "Evaluation 'Book Reviews'")
 
 ```
 
@@ -159,7 +151,7 @@ createPlot("C:/Users/Jonas/Desktop/FHkempten/6. Semester/Opinion Mining/Data/boo
 
 ## Individual-Bias
 
- #### Einbinden der Libraries ####
+ #### Libraries ####
    
    ```Rscript
    library(jsonlite)
@@ -171,7 +163,7 @@ createPlot("C:/Users/Jonas/Desktop/FHkempten/6. Semester/Opinion Mining/Data/boo
    ```
    
    
-   #### Funktion zur Berechnung der mittleren quadratischen Abweichung  ####
+   #### function to calculate the mean square deviation ####
    ```Rscript
    #arithmetisches Mittel
    mqa = function(x) {
@@ -186,7 +178,7 @@ createPlot("C:/Users/Jonas/Desktop/FHkempten/6. Semester/Opinion Mining/Data/boo
    }
    ```
    
-   #### erzeugen des Ausgabeplots  ####
+   #### creation of resulting plot  ####
    ```Rscript
    #### 1. Einlesen der json-Objekte in Tabelle ####
    
@@ -291,9 +283,7 @@ createPlot("C:/Users/Jonas/Desktop/FHkempten/6. Semester/Opinion Mining/Data/boo
    
    #### 6.  Funktionsaufruf mit Übergabe der Parameter ####
    
-   createPlotIndividualBias("/Users/harry/Desktop/Home/FH/06_SoSe18/DV_PROJEKT/rstudio_files/reviews_Toys_and_Games_5.json", "evaluation 'toys and games'", "individualBiasToysGames.jpeg")
-   #createPlotIndividualBias("/Users/harry/Desktop/Home/FH/06_SoSe18/DV_PROJEKT/rstudio_files/reviews_Video_Games_5.json", "evaluation 'video games'", "individualBiasVideoGames.jpeg")
-   #createPlotIndividualBias("/Users/harry/Desktop/Home/FH/06_SoSe18/DV_PROJEKT/rstudio_files/reviews_Health_and_Personal_Care_5.json", "evaluation 'health and personal care'", "individualBiasHealthPersonalCare.jpeg")
+   createPlotIndividualBias("./reviews_Toys_and_Games_5.json", "evaluation 'toys and games'", "individualBiasToysGames.jpeg")
    
    ```
 
@@ -302,10 +292,7 @@ createPlot("C:/Users/Jonas/Desktop/FHkempten/6. Semester/Opinion Mining/Data/boo
 
 ## Text quality
 
-### Scatterplot
-
-
-#### Einbinden der Libraries ####
+#### Libraries ####
 
 ```Rscript
 library("jsonlite")
@@ -318,7 +305,7 @@ library("stringi")
 ```
 
 
-#### erzeugen des Ausgabeplots  ####
+#### creation of resulting plot  ####
 ```Rscript
 createPlot <- function(filePath, titleName){
   
@@ -352,96 +339,5 @@ createPlot <- function(filePath, titleName){
   pplot + labs(x = "Word count", y = "Helpfulness", title = "Textquality", subtitle = titleName) + geom_point(color="steelblue")
 }
 
-createPlot("C:/Users/Jonas/Desktop/FHkempten/6. Semester/Opinion Mining/Data/Automotive_5.json", "Evaluation 'Automotive'")
-#createPlot("C:/Users/Jonas/Desktop/FHkempten/6. Semester/Opinion Mining/Data/Office_Products_5.json", "Evaluation 'Office Products'")
-#createPlot("C:/Users/Jonas/Desktop/FHkempten/6. Semester/Opinion Mining/Data/Pet_Supplies_5.json", "Evaluation 'Pet Supplies'")
-
+createPlot("./Automotive_5.json", "Evaluation 'Automotive'")
 ```
-
-
-
-
-
-
-### Boxplot
-
-
-#### Einbinden der Libraries ####
-
-```Rscript
-library(jsonlite)
-library(tidyr)
-library(plyr)
-library(dplyr)
-library(ggplot2)
-library(data.table)
-library(gridExtra)
-library(stringi)
-```
-
-
-#### erzeugen des Ausgabeplots  ####
-```Rscript
-createPlot <- function(filePath, titleName){
-  
-  data_path <- filePath
-  
-  amazonReviews <- stream_in(file(data_path))
-  
-  # Generating a data frame based on the json file read in earlier. Filtered by 'asin', 'overall' and 'helpful'
-  # counting all words in reviewText
-  reduced_Vote_Frame <- data.frame(amazonReviews) %>% select(asin,overall,helpful, reviewText)
-  reduced_Vote_Frame <- reduced_Vote_Frame %>% mutate(word_count=stri_count(reduced_Vote_Frame$reviewText, regex="\\S+"))
-  
-  # Grouping the reduced frame by 'asin' and mutating the frame adding a mean value for overall
-  mean_Vote_Frame <- reduced_Vote_Frame %>% group_by(asin)  %>%  mutate(overall_Mean_Rating = mean(overall)) 
-  
-  # calculating the difference between a single overall vote and the mean vote -> variance. Adding variance to the data frame
-  mean_Vote_Frame$variance <- abs(mean_Vote_Frame$overall - mean_Vote_Frame$overall_Mean_Rating)
-  
-  # rounding the variance of the mean value by a 0.5 quartile
-  mean_Vote_Frame$rounded <- round_any(mean_Vote_Frame$variance, 0.5)
-  
-  # adding the single values of helpful voters and voters as columns, removing the original helpful column
-  helpful_Vote_Frame <- mean_Vote_Frame %>% rowwise() %>% mutate(helpfulvoters = helpful[[1]], voters = helpful[[2]])
-  helpful_Vote_Frame <- helpful_Vote_Frame[!(helpful_Vote_Frame$voters==0), ]
-  #helpful_Vote_Frame$helpful <- NULL
-  
-  #subsetting the current data to filter out reviews that have less than 5 votes
-  helpful_Vote_Frame <- subset(helpful_Vote_Frame, voters > 4, 
-                               select=c(asin,overall,helpfulvoters, voters, rounded, variance))
-  
-  # calculating the quotient passing it into the plotable frame
-  plotable_Frame <- helpful_Vote_Frame %>% mutate(quot= helpfulvoters/ voters)
-  plotable_Frame20_30 <- plotable_Frame[seq(from = (plotable_Frame$word_count=20), to = (plotable_Frame$word_count=100), by = 1), ]
-  plotable_Frame75_125 <- plotable_Frame[seq(from = (plotable_Frame$word_count=100), to = (plotable_Frame$word_count=500), by = 1), ]
-  plotable_Frame500_600 <- plotable_Frame[seq(from = (plotable_Frame$word_count=500), to = (plotable_Frame$word_count=1000), by = 1), ]
-  plotable_Frame_1000 <- plotable_Frame[(plotable_Frame$word_count >= 1000), ]
-  
-  
-  #calculating the median of the quotient so that a red line in the plot can be drawn
-  setDT(plotable_Frame)[, theMedian := median(quot), by = rounded]
-  setDT(plotable_Frame20_30)[, theMedian := median(quot), by = rounded]
-  setDT(plotable_Frame75_125)[, theMedian := median(quot), by = rounded]
-  setDT(plotable_Frame500_600)[, theMedian := median(quot), by = rounded]
-  setDT(plotable_Frame_1000)[, theMedian := median(quot), by = rounded]
-  
-  # plotting the boxplots
-  plot20_30 <- ggplot(data=plotable_Frame20_30, aes(x=rounded)) + labs(x = "",y = "", subtitle = "Wordcount 20-100") + geom_boxplot(aes(y=quot, group=plotable_Frame20_30$rounded), outlier.shape = NA, color = 'midnightblue', fill = 'lightblue', coef = 0) + geom_line(aes(y=theMedian), color = 'red')
-  
-  plot75_125 <- ggplot(data=plotable_Frame75_125, aes(x=rounded)) + labs(x = "",y = "", subtitle = "Wordcount 100-500") + geom_boxplot(aes(y=quot, group=plotable_Frame75_125$rounded), outlier.shape = NA, color = 'midnightblue', fill = 'lightblue', coef = 0) +  geom_line(aes(y=theMedian), color = 'red')
-  
-  plot500_600 <- ggplot(data=plotable_Frame500_600, aes(x=rounded)) + labs(x = "",y = "", subtitle = "Wordcount 500-1000") + geom_boxplot(aes(y=quot, group=plotable_Frame500_600$rounded), outlier.shape = NA, color = 'midnightblue', fill = 'lightblue', coef = 0) +geom_line(aes(y=theMedian), color = 'red')
-  
-  plot1000 <- ggplot(data=plotable_Frame_1000, aes(x=rounded)) + labs(x = "",y = "", subtitle = "Wordcount >1000") + geom_boxplot(aes(y=quot, group=plotable_Frame_1000$rounded), outlier.shape = NA, color = 'midnightblue', fill = 'lightblue', coef = 0) + geom_line(aes(y=theMedian), color = 'red')
-  
-  grid.arrange(plot20_30, plot75_125, plot500_600, plot1000, ncol=2,nrow=2, top = titleName)
-}
-
-createPlot("C:/Users/Jonas/Desktop/FHkempten/6. Semester/Opinion Mining/Data/Automotive_5.json", "Evaluation 'Automotive'")
-#createPlot("C:/Users/Jonas/Desktop/FHkempten/6. Semester/Opinion Mining/Data/Office_Products_5.json", "Evaluation 'Office Products'")
-#createPlot("C:/Users/Jonas/Desktop/FHkempten/6. Semester/Opinion Mining/Data/Pet_Supplies_5.json", "Evaluation 'Pet Supplies'")
-
-```
-
-

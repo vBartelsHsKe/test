@@ -31,12 +31,8 @@ We are missing some plots here because this dataset was especially large which c
 ![](./)
 
 ### Text quality
-
-#### Scatterplot
 ![](./)
 
-#### Boxplot
-![](./)
 
 
 ## Power law

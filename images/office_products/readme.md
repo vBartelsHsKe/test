@@ -29,12 +29,7 @@ All results for category office products.
 ![](./individualBiasOfficeProducts.gif)
 
 ### Text quality
-
-#### Scatterplot
 ![](./scatterPlotwordcountOfficeProducts.gif)
-
-#### Boxplot
-![](./textQualityBoxplotOfficeProducts.gif)
 
 
 ## Power law

@@ -29,13 +29,7 @@ All results for category tools and home improvement.
 ![](./individualBiasToolsAndHomeImprovement.gif)
 
 ### Text quality
-
-#### Scatterplot
 ![](./scatterPlotwordcountToolsAndHomeImprovement.gif)
-
-#### Boxplot
-![](./textQualityBoxplotToolsAndHomeImprovement.gif)
-
 
 ## Power law
 

@@ -29,13 +29,7 @@ All results for category grocery and gourmet food.
 ![](./individualBiasGroceryAndGourmetFood.gif)
 
 ### Text quality
-
-#### Scatterplot
 ![](./scatterPlotwordcountGroceryAndGourmetFood.gif)
-
-#### Boxplot
-![](./textQualityBoxplotGroceryAndGourmetFood.gif)
-
 
 ## Power law
 

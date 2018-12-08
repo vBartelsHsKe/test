@@ -29,12 +29,7 @@ All results for category beauty.
 ![](./individualBiasBeauty.gif)
 
 ### Text quality
-
-#### Scatterplot
 ![](./scatterPlotwordcountBeauty.gif)
-
-#### Boxplot
-![](./textQualityBoxplotBeauty.gif)
 
 
 ## Power law

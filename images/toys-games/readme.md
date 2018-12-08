@@ -29,12 +29,7 @@ All results for category toys and games.
 ![](./individualBiasToysGames.gif)
 
 ### Text quality
-
-#### Scatterplot
 ![](./scatterPlotwordcountToysGames.gif)
-
-#### Boxplot
-![](./textQualityBoxplotToysGames.gif)
 
 
 ## Power law

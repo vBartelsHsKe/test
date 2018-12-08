@@ -29,12 +29,7 @@ All results for category Amazon Instant Video.
 ![](./individualBiasAmazonInstantMovie.gif)
 
 ### Text quality
-
-#### Scatterplot
 ![](./scatterPlotwordcountsAmazonInstantMovie.gif)
-
-#### Boxplot
-![](./textQualityBoxplotAmazonInstantMovie.gif)
 
 
 ## Power law

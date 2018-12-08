@@ -29,13 +29,7 @@ All results for category musical instruments.
 ![](./individualBiasMusicalInstruments.gif)
 
 ### Text quality
-
-#### Scatterplot
 ![](./scatterPlotwordcountMusicalInstruments.gif)
-
-#### Boxplot
-![](./textQualityBoxplotMusicalInstruments.gif)
-
 
 ## Power law
 

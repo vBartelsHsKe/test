@@ -75,7 +75,7 @@ To get started you need to install the latest R language packge and the R-compat
 
 ![](./images/video_games/brilliantButCruelVideoGames.gif)
 
-![jump to the code](./src/)
+![jump to the code](./src/hypothesis/readme.md#brilliant-but-cruel)
 
 
 ### Conformity
@@ -83,17 +83,23 @@ To get started you need to install the latest R language packge and the R-compat
 
 ![](./images/kindle_store/conformityKindleStore.gif)
 
+![jump to the code](./src/hypothesis/readme.md#conformity)
+
 
 ### Individual-Bias 
 ![](./images/cds-vinyl/individualBiasCDsVinyl.gif)
 
 ![](./images/beauty/individualBiasBeauty.gif)
 
+![jump to the code](./src/hypothesis/readme.md#individual-bias)
+
 
 ### Text quality
 ![](./images/health-personal_care/scatterPlotwordcountHealthPersonalCare.gif)
 
 ![](./images/home-kitchen/scatterPlotWordCountHomeKitchen.gif)
+
+![jump to the code](./src/hypothesis/readme.md#scatterplot)
 
 
 ## Power law

@@ -30,12 +30,7 @@ All results for category clothing, shoes and jewelry.
 
 ### Text quality
 
-#### Scatterplot
 ![](./scatterPlotWordCountClothingShoesJewelry.gif)
-
-#### Boxplot
-![](./textQualityBoxPlotClothingShoesJewelry.gif)
-
 
 ## Power law
 

@@ -29,12 +29,7 @@ All results for category health and personal care.
 ![](./individualBiasHealthPersonalCare.gif)
 
 ### Text quality
-
-#### Scatterplot
 ![](./scatterPlotwordcountHealthPersonalCare.gif)
-
-#### Boxplot
-![](./textQualityBoxplotHealthPersonalCare.gif)
 
 
 ## Power law

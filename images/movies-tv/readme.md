@@ -28,13 +28,7 @@ All results for category movies and TV.
 ![](./individualBiasMoviesTV.jpeg)
 
 ### Text quality
-
-#### Scatterplot
 ![](./scatterPlotWordCountMoviesTV.jpeg)
-
-#### Boxplot
-![](./textQualityBoxPlotMoviesTV.jpeg)
-
 
 ## Power law
 

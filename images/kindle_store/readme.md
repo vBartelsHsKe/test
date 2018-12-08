@@ -28,12 +28,7 @@ All results for category kindle store.
 ![](./individualBiasKindleStore.gif)
 
 ### Text quality
-
-#### Scatterplot
 ![](./scatterPlotwordcountKindleStore.gif)
-
-#### Boxplot
-![](./textQualityKindleStore.gif)
 
 
 ## Power law

@@ -29,12 +29,7 @@ All results for category sports and outdoors.
 ![](./individualBiasHealthSportsAndOutdoors.gif)
 
 ### Text quality
-
-#### Scatterplot
 ![](./scatterPlotwordcountHealthSportsAndOutdoors.gif)
-
-#### Boxplot
-![](./textQualityHealthSportsAndOutdoors.gif)
 
 
 ## Power law

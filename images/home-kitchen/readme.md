@@ -29,12 +29,7 @@ All results for category home and kitchen.
 ![](./individualBiasHomeKitchen.gif)
 
 ### Text quality
-
-#### Scatterplot
 ![](./scatterPlotWordCountHomeKitchen.gif)
-
-#### Boxplot
-![](./textQualityBoxPlotHomeKitchen.gif)
 
 
 ## Power law

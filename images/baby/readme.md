@@ -29,12 +29,8 @@ All results for category Baby.
 ![](./individualBiasBaby.gif)
 
 ### Text quality
-
-#### Scatterplot
 ![](./scatterPlotwordcountBaby.gif)
 
-#### Boxplot
-![](./textQualityBoxplotBaby.gif)
 
 
 ## Power law

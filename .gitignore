@@ -24,4 +24,4 @@ Temporary Items
 ### idea ###
 
 .idea
-.iml
+*.iml

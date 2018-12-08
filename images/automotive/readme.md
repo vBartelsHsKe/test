@@ -29,12 +29,7 @@ All results for category automotive.
 ![](./individualBiasAutomotive.gif)
 
 ### Text quality
-
-#### Scatterplot
 ![](./scatterPlotwordcountAutomotive.gif)
-
-#### Boxplot
-![](./textQualityBoxplotAutomotive.gif)
 
 
 ## Power law

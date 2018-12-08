@@ -29,12 +29,7 @@ All results for category cell phones and accessories.
 
 ### Text quality
 
-#### Scatterplot
 ![](./scatterPlotwordcountCellphones.gif)
-
-#### Boxplot
-![](./textQualityCellphones.gif)
-
 
 ## Power law
 

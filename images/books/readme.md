@@ -31,11 +31,6 @@ We are missing some plots here because this dataset was especially large which c
 ![](./z_individualBiasBooks.gif)
 
 ### Text quality
-
-#### Scatterplot
-![](./)
-
-#### Boxplot
 ![](./)
 
 

@@ -29,12 +29,7 @@ All results for category Apps for Android.
 ![](./individualBiasAppsForAndroid.gif)
 
 ### Text quality
-
-#### Scatterplot
 ![](./scatterPlotwordcountAppsForAndroid.gif)
-
-#### Boxplot
-![](./textQualityBoxplotAppsForAndroid.gif)
 
 
 ## Power law

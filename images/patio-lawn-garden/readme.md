@@ -29,13 +29,7 @@ All results for category patio, lawn and garden.
 ![](./individualBiasPatioLawnAndGarden.gif)
 
 ### Text quality
-
-#### Scatterplot
 ![](./scatterPlotwordcountPatioLawnAndGarden.gif)
-
-#### Boxplot
-![](./textQualityBoxplotPatioLawnAndGarden.gif)
-
 
 ## Power law
 

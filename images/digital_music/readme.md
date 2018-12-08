@@ -32,10 +32,6 @@ All results for category digital music.
 #### Scatterplot
 ![](./scatterPlotwordcountDigitalMusic.gif)
 
-#### Boxplot
-![](./textQualityBoxplotDigitalMusic.gif)
-
-
 ## Power law
 
 ### Textlength

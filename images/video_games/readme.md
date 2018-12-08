@@ -29,12 +29,7 @@ All results for category video games.
 ![](./individualBiasVideoGames.gif)
 
 ### Text quality
-
-#### Scatterplot
 ![](./scatterPlotwordcountVideoGames.gif)
-
-#### Boxplot
-![](./textQualityBoxplotVideoGames.gif)
 
 
 ## Power law

@@ -29,12 +29,7 @@ All results for category CDs and vinyl.
 ![](./individualBiasCDsVinyl.gif)
 
 ### Text quality
-
-#### Scatterplot
 ![](./scatterPlotWordCountCDsVinyl.gif)
-
-#### Boxplot
-![](./textQualityBoxPlotCDsVinyl.gif)
 
 
 ## Power law
